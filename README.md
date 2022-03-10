@@ -1,1 +1,1 @@
-# Betty
+Learning low level programming
